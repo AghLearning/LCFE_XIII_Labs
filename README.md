@@ -1,2 +1,7 @@
-# LCFE_XIII_Labs
-🍋 Lemoncode: Ejercicios del Master de Front-End, edición XIII
+#  🍋 Lemoncode Front-End Master (Edición XIII): Laboratorios
+
+Este repositorio recoge los laboratorios resueltos de todo el máster.
+
+|       Modulo     |        Ejercicio        |
+|------------------|-------------------------|
+| Modulo 1: Layout | Ejercicios Obligatorios | 
